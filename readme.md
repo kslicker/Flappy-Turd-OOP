@@ -1,0 +1,2 @@
+Flappy Bird clone. This version is written in an object oriented style.
+Object collision is better than the previous version as I used pygame's spritecollide method. Although sometimes it is not fully accurate.
